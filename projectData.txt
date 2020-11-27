@@ -1,0 +1,2 @@
+1,House Dobolonius,House,321 Abc str,2255,500000.0,125000.0,2020-12-20,true,2020-11-26,Dobolonius,0115557777,dob@lon.us,321 Abc str,Archie,0115558889,Arch@tect.com,654 Dr,Contra,0115559998,Contr@ct.com,987 Dr
+2,Mansion Dobolonius Maximus,Mansion,322 Abc str,2266,750000.0,75.0,2019-12-23,false, ,Dobolonius Maximus,0117896541,dobolonM@x.us,322 Abc str,Archie,0115558889,Arch@tect.com,654 Dr,Contra,0115559998,Contr@ct.com,987 Dr

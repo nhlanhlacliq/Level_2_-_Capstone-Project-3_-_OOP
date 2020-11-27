@@ -1,0 +1,20 @@
+		INVOICE
+		=======
+	  Poised Engineering
+
+Date: 2020-11-26
+
+Bill To:
+Name:			Dobolonius
+Telephone number:	0115557777
+E-mail address:		dob@lon.us
+Physical address:	321 Abc str
+
+Description		Amount
+==================================
+ Service		500000.0
+ Amount Paid	       -125000.0
+==================================
+	TOTAL	375000.0
+
+Thank you for your business!
