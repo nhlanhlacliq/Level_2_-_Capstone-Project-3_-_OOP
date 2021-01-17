@@ -1,4 +1,4 @@
-# Level_2_-_Capstone-Project-3_-_OOP
+# OOP Project Manager
 
 _A project managing program using oop_
 
