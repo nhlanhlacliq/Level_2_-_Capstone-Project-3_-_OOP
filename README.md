@@ -2,7 +2,7 @@
 
 _A project managing program using oop_
 
-*extends Level 2 Capstone project 1*
+*extends OOP demo*
 
 The program (created for a faux company dealing with construction) has the following functionality:
 
